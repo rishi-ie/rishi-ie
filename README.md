@@ -15,7 +15,7 @@
 * 🔴 **[Boros](https://github.com/rishi-ie/boros)** — Autonomous self-evolving agent. The only ceiling is the LLM it runs on.
 * ⚗️ **[Parasite](https://github.com/rishi-ie/parasite-public)** *(closed source)* — A true reasoning engine. Not a transformer. Rivals LLMs on their own benchmarks at a fraction of the compute. A radical path toward AGI on consumer hardware.
 * 🧬 **[Dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Merges the capabilities, skills, and tools of any two agents into one.
-* 🏢 **[Digital Office](https://github.com/rishi-ie/digital-office)** — A workspace where humans and agents collaborate on tasks — structured like real-world teamwork.
+* 🏢 **[Oasis](https://github.com/rishi-ie/oasis)** — A workspace where humans and agents collaborate on tasks — structured like real-world teamwork.
 * 🖥️ **[Agent Hub](https://github.com/rishi-ie/agent-hub)** — Wraps any agent's CLI in a full GUI. Zero friction.
 
 ## Agent Skills
