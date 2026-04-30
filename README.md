@@ -26,7 +26,7 @@
 ## Philosophical Methods
 
 * 🐇 **[Hobbit](https://github.com/rishi-ie/hobbit)** — A decomposition framework. Any complex task, broken to its smallest units — solved simply, elegantly, efficiently.
-* 🗺️ **[Chromap](https://github.com/rishi-ie/chrome-app)** — A learning method. Master any subject at maximum speed by mapping it fully in chronological order.
+* 🗺️ **[Chromap](https://github.com/rishi-ie/chromap)** — A learning method. Master any subject at maximum speed by mapping it fully in chronological order.
 
 ---
 
