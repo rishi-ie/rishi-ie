@@ -4,7 +4,7 @@
 
 📍 **India** | 🧠 **Founder @[Mumbrane](https://mumbrane.com)** | 17, building things that shouldn't exist yet.
 
-> I'm a mathematician who believes every interaction in the universe — down to quarks — has a mathematical representation. Consciousness included. I'm trying to find it, formalize it, and build it.
+> I'm a mathematician and a cross domain systems architect who believes every interaction in the universe — down to quarks — has a mathematical representation. Consciousness included. I'm trying to find it, formalize it, and build it.
 >
 > Currently working on **Parasite** — an architecture that is nothing like an LLM, rivals one, and can run on a consumer GPU. A serious attempt at AGI.
 
