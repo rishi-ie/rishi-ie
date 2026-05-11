@@ -27,7 +27,10 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 
 - 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams — roles, accountability, shared context.
 - 🖥️ **[agent-hub](https://github.com/rishi-ie/agent-hub)** — GUI wrapper for any agent CLI. Turns command-line tools into full interfaces with zero friction.
-- 🔍 **[larql](https://github.com/chrishayuk/larql)** — The model IS the database. Query transformer weights like a graph DB.
+- 🔍 **[larql](https://github.com/chrishayuk/larql)** — The model IS the database. Query transformer weights like a graph DB. No GPU required.
+- ⚡ **[pi](https://github.com/rishi-ie/pi)** — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods.
+- 🤖 **[hermes-agent](https://github.com/rishi-ie/hermes-agent)** — The agent that grows with you. Learns, adapts, evolves.
+- 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
 
 ---
 
