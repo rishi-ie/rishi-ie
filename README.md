@@ -1,55 +1,62 @@
-# Rishi
+# Hi, I'm Rishi 👋
 
-**17 · India · Systems Architect**
+📍 **India** | 🤖 **Founder @ [Mumbrane](https://mumbrane.com)** | 17, building things that shouldn't exist yet.
 
-Founder @ [Mumbrane](https://mumbrane.com) — autonomous agents as digital employees, not assistants.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ML](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=ollama&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Building [Parasite](https://github.com/rishi-ie/parasite-public): a reasoning architecture that isn't an LLM but beats them on every benchmark, at 1/240th the compute, on a single consumer GPU.
+> A mathematician and cross-domain systems architect who believes every interaction in the universe — down to quarks — has a mathematical representation. Consciousness included. Building the formalization and the implementation.
+
+Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)** — an architecture that isn't an LLM, rivals one on every benchmark, at 1/240th the compute, on a single consumer GPU. A serious attempt at AGI on hardware you can buy at Best Buy.
 
 ---
 
-## Projects
+## Start Here
 
-| | Name | Description |
-|---|------|-------------|
-| ⚗️ | **[parasite](https://github.com/rishi-ie/parasite-public)** | AGI-viable reasoning engine. Not a transformer. Not closed-source. |
-| 🔴 | **[boros](https://github.com/rishi-ie/boros)** | Self-evolving agent. Rewrites own code, auto-rolls back on failure. |
-| 🧬 | **[dominion](https://github.com/rishi-ie/dominion)** | Agent breeder. Sexual reproduction for AI agents. |
-| 🏢 | **[oasis](https://github.com/rishi-ie/oasis)** | Human-agent collaboration workspace. Real teams, real accountability. |
-| 🖥️ | **[agent-hub](https://github.com/rishi-ie/agent-hub)** | GUI wrapper for any agent CLI. Zero friction. |
-| 🔍 | **[larql](https://github.com/chrishayuk/larql)** | The model IS the database. Query transformer weights like a graph DB. |
+- ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source.
+- 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure. The only ceiling is the LLM it runs on.
+- 🧬 **[dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Sexual reproduction for AI agents. Merges capabilities of any two agents into one offspring.
+
+---
+
+## Active Projects
+
+- 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams — roles, accountability, shared context.
+- 🖥️ **[agent-hub](https://github.com/rishi-ie/agent-hub)** — GUI wrapper for any agent CLI. Turns command-line tools into full interfaces with zero friction.
+- 🔍 **[larql](https://github.com/chrishayuk/larql)** — The model IS the database. Query transformer weights like a graph DB.
 
 ---
 
 ## Agent Infrastructure
 
-| | Name | Description |
-|---|------|-------------|
-| 🧠 | **[humem](https://github.com/rishi-ie/humem)** | Memory that mirrors human cognition. |
-| 🔁 | **[auto-cot](https://github.com/rishi-ie/auto-cot)** | Real-time CoT evolution. |
+- 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative, forgetting-curve-aware.
+- 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution based on task outcomes.
+- 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework. Any goal → smallest atomic units → full clarity.
+- 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its complete historical development.
 
 ---
 
-## Frameworks
+## What I'm Doing
 
-| | Name | Description |
-|---|------|-------------|
-| 🐇 | **[hobbit](https://github.com/rishi-ie/hobbit)** | Total task decomposition. |
-| 🗺️ | **[chromap](https://github.com/rishi-ie/chromap)** | Chronological learning. |
-
----
-
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ML](https://img.shields.io/badge/ML-LLMs-412991?style=flat-square&logo=ollama&logoColor=white)
+- **Building Parasite** — an AGI-viable reasoning architecture that doesn't need a data center to run
+- **Shipping Mumbrane** — autonomous agents as digital employees, not assistants
+- **Thinking about consciousness** — what it is, how to formalize it mathematically, how to replicate it
 
 ---
 
-> Every interaction in the universe is mathematically representable. Consciousness has a formal structure. I intend to find it.
+## Connect
+
+[![rishi_sidharda](https://img.shields.io/badge/-rishi__sidharda-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rishi_sidharda)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rishi-ie)
+
+---
+
+### Philosophy
+
+> Every interaction in the universe — down to quarks — has a mathematical representation. Consciousness is not an exception. It has a formal structure. I intend to find it.
 
 *Building in public. Thinking in private.*
