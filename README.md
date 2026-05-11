@@ -35,7 +35,6 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 - 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
 - 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework.
 - 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history.
-- 📂 **[all repos →](https://github.com/rishi-ie?tab=repos)** — Full project catalog on GitHub.
 
 ---
 
