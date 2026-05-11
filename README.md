@@ -31,7 +31,6 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 ## 🛠️ Projects
 
 - 🖥️ **[agent-hub](https://github.com/rishi-ie/agent-hub)** — GUI wrapper for any agent CLI. Zero friction.
-- 🔍 **[larql](https://github.com/chrishayuk/larql)** — The model IS the database. Query transformer weights like a graph.
 - 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
 - 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework.
 - 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history.
