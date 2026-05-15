@@ -24,7 +24,7 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 - 🎯 **[meta-agent](https://github.com/rishi-ie/meta-agent)** — Job-specific self-evolving agent. Upload a job description, it adapts and masters it in a sandbox.
 - 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams.
 - 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative.
-- 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution.
+
 
 ---
 
@@ -34,6 +34,7 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 - 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
 - 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework.
 - 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history.
+- 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution.
 - 🖼️ **[cli-genui](https://github.com/rishi-ie/cli-genui)** — Skill for CLI agents to render generative, interactive UI — Claude Desktop style.
 
 ---
