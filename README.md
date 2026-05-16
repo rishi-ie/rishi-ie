@@ -35,7 +35,7 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 - 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework.
 - 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history.
 - 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution.
-- 🖼️ **[cli-genui](https://github.com/rishi-ie/cli-genui)** — Skill for CLI agents to render generative, interactive UI — Claude Desktop style.
+- 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI — Claude Desktop style.
 
 ---
 
