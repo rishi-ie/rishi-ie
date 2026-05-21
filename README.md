@@ -11,7 +11,9 @@
 
 > A mathematician and cross-domain systems architect who believes every interaction in the universe — down to quarks — has a mathematical representation. Consciousness included. Building the formalization and the implementation.
 
-Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)** — an architecture that isn't an LLM, rivals one on every benchmark, at 1/240th the compute, on a single consumer GPU. A serious attempt at AGI on hardware you can buy at Best Buy.
+Currently working on
+
+Building **Parasite** — a completely new reasoning model using energy-based diffusion and semantic reconciliation. Not an LLM. Not a transformer. Something fundamentally different. Also building **Conduit** — the agent-facing layer on Linux that gives AI systems full, privileged GUI control, the way humans interact with desktops, but with 100% reliability. A bunch of smaller projects compounding toward an intelligence explosion.
 
 ---
 
