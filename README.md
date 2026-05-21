@@ -17,9 +17,9 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 
 ## ⭐ Featured
 
-- ⚡ **[conduit](https://github.com/rishi-ie/conduit)** — Agent-facing layer on Linux. Full GUI control for AI systems.
 - ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source.
 - 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure.
+- ⚡ **[conduit](https://github.com/rishi-ie/conduit)** — Agent-facing layer on Linux. Full GUI control for AI systems.
 - 🧬 **[dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Sexual reproduction for AI agents.
 - ⚡ **[pi](https://github.com/rishi-ie/pi)** — AI agent toolkit. Coding CLI, unified LLM API, TUI & web UI libs, Slack bot, vLLM pods.
 - 🎯 **[meta-agent](https://github.com/rishi-ie/meta-agent)** — Job-specific self-evolving agent. Upload a job description, it adapts and masters it in a sandbox.
