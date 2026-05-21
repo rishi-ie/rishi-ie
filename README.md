@@ -1,4 +1,4 @@
-# Hi, I'm Rishi 👋
+# Hi, I'm Rishi 👋 
 
 📍 **India** | 🤖 **Founder @[Mumbrane](https://mumbrane.com)** | 17, building things that shouldn't exist yet.
 
