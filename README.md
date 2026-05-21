@@ -42,6 +42,7 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 ## What I'm Doing
 
 - **Building Parasite** — an AGI-viable reasoning architecture that doesn't need a data center
+- **Building Conduit** — a full-scale OS for agents. Kernel-level layer on Linux giving AI systems full GUI control
 - **Shipping Mumbrane** — autonomous agents as digital employees, not assistants
 - **Thinking about consciousness** — what it is, how to formalize it mathematically, how to replicate it
 
