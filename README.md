@@ -21,6 +21,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 - 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure.
 - 🌐 **[OSCP](https://github.com/rishi-ie/OSCP)** — Operating System Context Protocol. Agents as first-class users.
 - 🧬 **[dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Sexual reproduction for AI agents.
+- 🎯 **[meta-agent](https://github.com/rishi-ie/meta-agent)** — Job-specific self-evolving agent.
 
 ---
 
