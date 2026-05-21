@@ -11,9 +11,7 @@
 
 > A mathematician and cross-domain systems architect who believes every interaction in the universe — down to quarks — has a mathematical representation. Consciousness included. Building the formalization and the implementation.
 
-Currently working on
-
-Building **Parasite** — a completely new reasoning model using energy-based diffusion and semantic reconciliation. Not an LLM. Not a transformer. Something fundamentally different. Also building **Conduit** — the agent-facing layer on Linux that gives AI systems full, privileged GUI control, the way humans interact with desktops, but with 100% reliability. A bunch of smaller projects compounding toward an intelligence explosion.
+Currently working on **Parasite** — a completely new reasoning model using energy-based diffusion and semantic reconciliation. Not an LLM. Not a transformer. Something fundamentally different. Also building **OSCP** — the Operating System Context Protocol that makes agents first-class users of computing systems, not human imitators. A bunch of smaller projects compounding toward an intelligence explosion.
 
 ---
 
@@ -21,8 +19,9 @@ Building **Parasite** — a completely new reasoning model using energy-based di
 
 - ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source.
 - 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure.
-- ⚡ **[conduit](https://github.com/rishi-ie/conduit)** — Agent-facing layer on Linux. Full GUI control for AI systems.
+- 🌐 **[OSCP](https://github.com/rishi-ie/OSCP)** — Operating System Context Protocol. Agents as first-class users.
 - 🧬 **[dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Sexual reproduction for AI agents.
+- ⚡ **[pi](https://github.com/rishi-ie/pi)** — AI agent toolkit. Coding CLI, unified LLM API, TUI & web UI libs.
 - 🎯 **[meta-agent](https://github.com/rishi-ie/meta-agent)** — Job-specific self-evolving agent. Upload a job description, it adapts and masters it in a sandbox.
 
 ---
@@ -31,18 +30,19 @@ Building **Parasite** — a completely new reasoning model using energy-based di
 
 - 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams.
 - 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative.
+- 🖥️ **[agent-hub](https://github.com/rishi-ie/agent-hub)** — GUI wrapper for any agent CLI. Zero friction.
 - 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
 - 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework.
 - 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history.
 - 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution.
-- 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI — Claude Desktop style.
+- 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI.
 
 ---
 
 ## What I'm Doing
 
 - **Building Parasite** — an AGI-viable reasoning architecture that doesn't need a data center
-- **Building Conduit** — a full-scale OS for agents. Kernel-level layer on Linux giving AI systems full GUI control
+- **Building OSCP** — Operating System Context Protocol. Agents interacting through meaning, not interfaces
 - **Shipping Mumbrane** — autonomous agents as digital employees, not assistants
 - **Thinking about consciousness** — what it is, how to formalize it mathematically, how to replicate it
 
@@ -50,6 +50,13 @@ Building **Parasite** — a completely new reasoning model using energy-based di
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-rishi_sidharda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-sidharda-8629421b7/)
 [![X](https://img.shields.io/badge/-rishi__sidharda-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rishi_sidharda)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rishi-ie)
+
+---
+
+### Philosophy
+
+> Every interaction in the universe — down to quarks — has a mathematical representation. Consciousness is not an exception. It has a formal structure. I intend to find it.
+
+*Building in public. Thinking in private.*
