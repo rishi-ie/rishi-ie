@@ -50,7 +50,8 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 
 ## Connect
 
-[![rishi_sidharda](https://img.shields.io/badge/-rishi__sidharda-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rishi_sidharda)
+[![LinkedIn](https://img.shields.io/badge/-rishi_sidharda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-sidharda-8629421b7/)
+[![X](https://img.shields.io/badge/-rishi__sidharda-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rishi_sidharda)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rishi-ie)
 
 ---
