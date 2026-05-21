@@ -27,7 +27,6 @@ Currently working on **[Parasite](https://github.com/rishi-ie/parasite-public)**
 
 ## 🛠️ Projects
 
-- ⚡ **[pi](https://github.com/rishi-ie/pi)** — AI agent toolkit. Coding CLI, unified LLM API, TUI & web UI libs, Slack bot, vLLM pods.
 - 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams.
 - 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative.
 - 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
