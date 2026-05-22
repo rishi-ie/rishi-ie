@@ -28,6 +28,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 ## 🛠️ Projects
 
 - 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams.
+- 🔧 **[tva](https://github.com/rishi-ie/tva)** — Time, Value, and Attention memory system for AI agents. Persistent context, task state, and decision tracking.
 - 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative.
 - 🖥️ **[agent-hub](https://github.com/rishi-ie/agent-hub)** — GUI wrapper for any agent CLI. Zero friction.
 - 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
