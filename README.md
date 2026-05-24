@@ -27,6 +27,8 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ## 🛠️ Projects
 
+- 🧠 **[pi-ppc](https://github.com/rishi-ie/pi-ppc)** — Persistent project brain for coding agents. Local, file-based, zero network dependency.
+- 🐝 **[meta-hive](https://github.com/rishi-ie/meta-hive)** — Multi-agent orchestration for pi coding agent. Manage projects with dedicated profiles — each project its own context, no switching.
 - 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams.
 - 🔧 **[tva](https://github.com/rishi-ie/tva)** — Time, Value, and Attention memory system for AI agents. Persistent context, task state, and decision tracking.
 - 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative.
