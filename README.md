@@ -15,7 +15,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ---
 
-## ⭐ Featured
+## ⭐ Featured (5)
 
 - ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source.
 - 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure.
@@ -25,7 +25,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Projects (11)
 
 - 🧠 **[pi-ppc](https://github.com/rishi-ie/pi-ppc)** — Persistent project brain for coding agents. Local, file-based, zero network dependency.
 - 🐝 **[meta-hive](https://github.com/rishi-ie/meta-hive)** — Multi-agent orchestration for pi coding agent. Manage projects with dedicated profiles.
