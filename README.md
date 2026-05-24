@@ -25,7 +25,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ---
 
-## 🛠️ Projects (11)
+## 🛠️ Projects (12)
 
 - 🧠 **[pi-ppc](https://github.com/rishi-ie/pi-ppc)** — Persistent project brain for coding agents. Local, file-based, zero network dependency.
 - 🐝 **[meta-hive](https://github.com/rishi-ie/meta-hive)** — Multi-agent orchestration for pi coding agent. Manage projects with dedicated profiles.
@@ -38,6 +38,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 - 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history.
 - 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution.
 - 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI.
+- ✈️ **[pi-telegram](https://github.com/rishi-ie/pi-telegram)** — Telegram integration for pi coding agent. Control and interact via Telegram.
 
 ---
 
