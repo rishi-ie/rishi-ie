@@ -39,7 +39,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 - 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution. ✅
 - 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI. ✅
 - ✈️ **[pi-telegram](https://github.com/rishi-ie/pi-telegram)** — Telegram integration for pi coding agent. Control and interact via Telegram. ✅
-- 🧪 **[auto-breakthrough](https://github.com/rishi-ie/auto-breakthrough)** — Autonomous research skill. Given a thesis and experiment breakdown, it actively conducts experiments and delivers conclusions. 🔨
+- 🧪 **[auto-breakthrough](https://github.com/rishi-ie/auto-breakthrough)** — Autonomous research agent. Feed it a thesis, it runs experiments and returns conclusions. 🔨
 
 ---
 
