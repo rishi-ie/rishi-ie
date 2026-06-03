@@ -17,28 +17,29 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ## ⭐ Featured (5)
 
-- ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source.
-- 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure.
-- 🌐 **[OSCP](https://github.com/rishi-ie/OSCP)** — Operating System Context Protocol. Agents as first-class users.
-- 🧬 **[dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Sexual reproduction for AI agents.
-- 🎯 **[meta-agent](https://github.com/rishi-ie/meta-agent)** — Job-specific self-evolving agent.
+- ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source. 🔨
+- 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure. ✅
+- 🌐 **[OSCP](https://github.com/rishi-ie/OSCP)** — Operating System Context Protocol. Agents as first-class users. 🔨
+- 🧬 **[dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Sexual reproduction for AI agents. ✅
+- 🎯 **[meta-agent](https://github.com/rishi-ie/meta-agent)** — Job-specific self-evolving agent. ✅
 
 ---
 
-## 🛠️ Projects (12)
+## 🛠️ Projects (13)
 
-- 🧠 **[pi-ppc](https://github.com/rishi-ie/pi-ppc)** — Persistent project brain for coding agents. Local, file-based, zero network dependency.
-- 🐝 **[meta-hive](https://github.com/rishi-ie/meta-hive)** — Multi-agent orchestration for pi coding agent. Manage projects with dedicated profiles.
-- 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams.
-- 🔧 **[tva](https://github.com/rishi-ie/tva)** — Time, Value, and Attention memory system for AI agents. Persistent context, task state, and decision tracking.
-- 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative.
-- 🖥️ **[agent-hub](https://github.com/rishi-ie/agent-hub)** — GUI wrapper for any agent CLI. Zero friction.
-- 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem.
-- 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework.
-- 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history.
-- 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution.
-- 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI.
-- ✈️ **[pi-telegram](https://github.com/rishi-ie/pi-telegram)** — Telegram integration for pi coding agent. Control and interact via Telegram.
+- 🧠 **[pi-ppc](https://github.com/rishi-ie/pi-ppc)** — Persistent project brain for coding agents. Local, file-based, zero network dependency. ✅
+- 🐝 **[meta-hive](https://github.com/rishi-ie/meta-hive)** — Multi-agent orchestration for pi coding agent. Manage projects with dedicated profiles. ✅
+- 🏢 **[oasis](https://github.com/rishi-ie/oasis)** — Human-agent collaboration workspace. Structured like real teams. 🔨
+- 🔧 **[tva](https://github.com/rishi-ie/tva)** — Time, Value, and Attention memory system for AI agents. Persistent context, task state, and decision tracking. ✅
+- 🧠 **[humem](https://github.com/rishi-ie/humem)** — Memory that mirrors human cognition. Episodic, semantic, associative. ✅
+- 🖥️ **[agent-hub](https://github.com/rishi-ie/agent-hub)** — GUI wrapper for any agent CLI. Zero friction. 🔨
+- 🧩 **[pi-extract](https://github.com/rishi-ie/pi-extract)** — Extraction utilities for the pi agent ecosystem. ✅
+- 🐇 **[hobbit](https://github.com/rishi-ie/hobbit)** — Total task decomposition framework. ✅
+- 🗺️ **[chromap](https://github.com/rishi-ie/chromap)** — Chronological learning. Master any field by mapping its history. ✅
+- 🔁 **[auto-cot](https://github.com/rishi-ie/auto-cot)** — Real-time CoT monitoring and automatic evolution. ✅
+- 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI. ✅
+- ✈️ **[pi-telegram](https://github.com/rishi-ie/pi-telegram)** — Telegram integration for pi coding agent. Control and interact via Telegram. ✅
+- 🧪 **[auto-breakthrough](https://github.com/rishi-ie/auto-breakthrough)** — Autonomous research skill. Given a thesis and experiment breakdown, it actively conducts experiments and delivers conclusions. 🔨
 
 ---
 
