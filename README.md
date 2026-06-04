@@ -25,7 +25,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ---
 
-## 🛠️ Projects (13)
+## 🛠️ Projects (14)
 
 - 🧠 **[pi-ppc](https://github.com/rishi-ie/pi-ppc)** — Persistent project brain for coding agents. Local, file-based, zero network dependency. ✅
 - 🐝 **[meta-hive](https://github.com/rishi-ie/meta-hive)** — Multi-agent orchestration for pi coding agent. Manage projects with dedicated profiles. ✅
@@ -40,6 +40,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 - 🖼️ **[genui](https://github.com/rishi-ie/genui)** — Skill for CLI agents to render generative, interactive UI. ✅
 - ✈️ **[pi-telegram](https://github.com/rishi-ie/pi-telegram)** — Telegram integration for pi coding agent. Control and interact via Telegram. ✅
 - 🧪 **[auto-breakthrough](https://github.com/rishi-ie/auto-breakthrough)** — Autonomous research agent. Feed it a thesis, it runs experiments and returns conclusions. 🔨
+- 🌐 **[web2skill](https://github.com/rishi-ie/web2skill)** — Turn any website into a reusable AI agent skill. Point at a site, get a SKILL.md folder. ✅
 
 ---
 
