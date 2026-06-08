@@ -15,8 +15,9 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ---
 
-## ⭐ Featured (5)
+## ⭐ Featured (6)
 
+- 🪟 **[browser-base](https://github.com/rishi-ie/browser-base)** — Persistent browser for agents. Local browser infra, open source. ✅
 - ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source. 🔨
 - 🔴 **[boros](https://github.com/rishi-ie/boros)** — Self-evolving agent. Rewrites own code, auto-rolls back on failure. ✅
 - 🌐 **[OSCP](https://github.com/rishi-ie/OSCP)** — Operating System Context Protocol. Agents as first-class users. 🔨
