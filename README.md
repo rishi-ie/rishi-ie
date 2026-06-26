@@ -15,7 +15,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ---
 
-## ⭐ Featured (6)
+## ⭐ Featured (7)
 
 - 🪟 **[browser-base](https://github.com/rishi-ie/browser-base)** — Persistent browser for agents. Local browser infra, open source. ✅
 - ⚗️ **[parasite](https://github.com/rishi-ie/parasite-public)** — AGI-viable reasoning engine. Not a transformer. Closed source. 🔨
@@ -23,6 +23,7 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 - 🌐 **[OSCP](https://github.com/rishi-ie/OSCP)** — Operating System Context Protocol. Agents as first-class users. 🔨
 - 🧬 **[dominion](https://github.com/rishi-ie/dominion)** — Agent breeder. Sexual reproduction for AI agents. ✅
 - 🎯 **[meta-agent](https://github.com/rishi-ie/meta-agent)** — Config-driven modular system for pi. Extensions, fills, prompts — turn pi into anything. ✅
+- 🧬 **[LTM](https://github.com/rishi-ie/LTM)** — Research project on latent topology models for a reasoning inference better than LLMs. 🔨
 
 ---
 
