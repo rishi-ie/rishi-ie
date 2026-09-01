@@ -11,7 +11,7 @@
 
 > A mathematician and cross-domain systems architect who believes every interaction in the universe — down to quarks — has a mathematical representation. Consciousness included. Building the formalization and the implementation.
 
-Currently working on **Parasite** — a completely new reasoning model using energy-based diffusion and semantic reconciliation. Not an LLM. Not a transformer. Something fundamentally different. Also building **OSCP** — the Operating System Context Protocol that makes agents first-class users of computing systems, not human imitators. A bunch of smaller projects compounding toward an intelligence explosion.
+Currently building **Mumbrane Labs**, a closed-world research lab focused on energy-based general intelligence. Our work spans foundational energy-based models and their practical applications, pursuing a radical alternative to the dominant LLM paradigm.
 
 ---
 
@@ -48,18 +48,10 @@ Currently working on **Parasite** — a completely new reasoning model using ene
 
 ---
 
-## What I'm Doing
-
-- **Building Parasite** — an AGI-viable reasoning architecture that doesn't need a data center
-- **Building OSCP** — Operating System Context Protocol. Agents interacting through meaning, not interfaces
-- **Shipping Mumbrane** — autonomous agents as digital employees, not assistants
-- **Thinking about consciousness** — what it is, how to formalize it mathematically, how to replicate it
-
----
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-rishi__sidharda-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rishi_sidharda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-ie)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rishi-ie)
 
 ---
